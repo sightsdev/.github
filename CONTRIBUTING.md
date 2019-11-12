@@ -27,5 +27,9 @@ Start reading our code and you'll get the hang of it. It's mostly common sense.
 
 If this is too unofficial or laid-back for you, don't worry: Full styleguides will be added in the future.
 
+## Code of conduct
+
+Here at S.A.R.T., we like to promote the ideals of a safe and healthy open source community. You can read our code of conduct [here](CODE_OF_CONDUCT.md).
+
 Thanks,
 The Semi-Autonomous Rescue Team
