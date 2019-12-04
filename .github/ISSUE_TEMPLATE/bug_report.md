@@ -22,7 +22,7 @@ Remove this header and any unused sections before submitting your bug report.
 A clear and concise description of what the bug is.
 
 **Steps To Reproduce**
-Steps to reproduce the behavior:
+Steps to reproduce the behaviour:
 1. 
 
 **Expected behaviour**
@@ -33,7 +33,7 @@ If applicable, add screenshots to help explain your problem. Remove this section
 
 **Host/Robot Information:**
  - OS: [e.g. "Ubuntu" or "Raspbian"]
- - OS Version [e.g. "Bionic Beaver 18.04.3 LTS" or "Buster 10.2"]
+ - OS Version: [e.g. "Bionic Beaver 18.04.3 LTS" or "Buster 10.2"]
  - SIGHTS Software versions [On the interface, in the settings modal, on the about tab]
    - SIGHTSRobot version:
    - SIGHTSInterface version: (remove if not using the interface software)
