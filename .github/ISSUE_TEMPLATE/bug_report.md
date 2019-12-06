@@ -34,14 +34,14 @@ If applicable, add screenshots to help explain your problem. Remove this section
 **Host/Robot Information:**
  - OS: [e.g. "Ubuntu" or "Raspbian"]
  - OS Version: [e.g. "Bionic Beaver 18.04.3 LTS" or "Buster 10.2"]
- - SIGHTS Software versions [On the interface, in the settings modal, on the about tab]
+ - SIGHTS Software versions: [On the interface, in the settings modal, on the about tab]
    - SIGHTSRobot version:
    - SIGHTSInterface version: (remove if not using the interface software)
    - SIGHTSVision version: (remove if not using vision software)
 
 **Controller (where you access the interface from. Remove this section if you weren't using the interface):**
  - OS: [e.g. "Windows 10" or "Ubuntu"]
- - OS Version [e.g. "Build 18362" or "Bionic Beaver 18.04.3 LTS"]
+ - OS Version: [e.g. "Build 18362" or "Bionic Beaver 18.04.3 LTS"]
  - Browser: [e.g. "Chrome" or "Firefox"]
  - Browser version: [e.g. "78.0.3904.97"]
 
