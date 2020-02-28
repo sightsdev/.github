@@ -7,10 +7,7 @@ assignees: ''
 
 ---
 
-Features for the interface/GUI should be opened at https://github.com/SFXRescue/SIGHTSInterface/issues
-Features for the robot/host service should be opened at https://github.com/SFXRescue/SIGHTSRobot/issues
 Features for the computer vision software should be opened at https://github.com/SFXRescue/SIGHTSVision/issues
-If you're not sure which issue tracker to use, you're welcome to create a new issue on any tracker using your best judgement.
 
 Remove this header and any unused sections before submitting your feature suggestion.
 

@@ -21,11 +21,13 @@ If you're interested in further information about submitting changes, take a loo
 ## Coding conventions
 
 Start reading our code and you'll get the hang of it. It's mostly common sense.
-- Python follows PEP8 guidelines in most cases
+
+- Python follows [PEP8](https://www.python.org/dev/peps/pep-0008/) guidelines in most cases
 - JavaScript follows whatever makes the most sense
 - HTML classes are styled like `a-fancy-class` and IDs are `the_best_element`
+- Documentation in Markdown (`.md`) format follows [GitHub Flavored Markdown](https://github.github.com/gfm/)
 
-If this is too unofficial or laid-back for you, don't worry: Full styleguides will be added in the future.
+If this is too unofficial or laid-back for you, don't worry: expanded style-guides will be added in the future.
 
 ## Code of conduct
 

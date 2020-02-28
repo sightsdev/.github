@@ -7,12 +7,9 @@ assignees: ''
 
 ---
 
-Issues with the interface/GUI should be reported at https://github.com/SFXRescue/SIGHTSInterface/issues
-Issues with the robot/host service should be reported at https://github.com/SFXRescue/SIGHTSRobot/issues
 Issues with the computer vision software should be reported at https://github.com/SFXRescue/SIGHTSVision/issues
-If you're not sure which issue tracker to use, you're welcome to create a new issue on any tracker using your best judgement.
 
-All information is optional, however, providing less information will delay any potential fix.
+All information is optional, however, the more infomation you provide, the easier it is for us to help out.
 
 Remove this header and any unused sections before submitting your bug report.
 
@@ -34,10 +31,8 @@ If applicable, add screenshots to help explain your problem. Remove this section
 **Host/Robot Information:**
  - OS: [e.g. "Ubuntu" or "Raspbian"]
  - OS Version: [e.g. "Bionic Beaver 18.04.3 LTS" or "Buster 10.2"]
- - SIGHTS Software versions: [On the interface, in the settings modal, on the about tab]
-   - SIGHTSRobot version:
-   - SIGHTSInterface version: (remove if not using the interface software)
-   - SIGHTSVision version: (remove if not using vision software)
+ - SIGHTS versions: [On the interface, in the settings modal, on the `About` tab]
+ - SIGHTSVision version: (remove if not using vision software)
 
 **Controller (where you access the interface from. Remove this section if you weren't using the interface):**
  - OS: [e.g. "Windows 10" or "Ubuntu"]
