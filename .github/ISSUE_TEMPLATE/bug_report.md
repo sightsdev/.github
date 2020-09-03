@@ -7,8 +7,6 @@ assignees: ''
 
 ---
 
-Issues with the computer vision software should be reported at https://github.com/SFXRescue/SIGHTSVision/issues
-
 All information is optional, however, the more infomation you provide, the easier it is for us to help out.
 
 Remove this header and any unused sections before submitting your bug report.
@@ -31,8 +29,7 @@ If applicable, add screenshots to help explain your problem. Remove this section
 **Host/Robot Information:**
  - OS: [e.g. "Ubuntu" or "Raspbian"]
  - OS Version: [e.g. "Bionic Beaver 18.04.3 LTS" or "Buster 10.2"]
- - SIGHTS versions: [On the interface, in the settings modal, on the `About` tab]
- - SIGHTSVision version: (remove if not using vision software)
+ - Sights versions: [On the interface, in the settings modal, on the `About` tab]
 
 **Controller (where you access the interface from. Remove this section if you weren't using the interface):**
  - OS: [e.g. "Windows 10" or "Ubuntu"]

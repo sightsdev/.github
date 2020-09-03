@@ -16,7 +16,7 @@ When creating a Pull Request, have a clear list of what you've done, follow our 
 
 Always write a clear log message for your commits. One-line messages are fine, we're not too fancy about that sort of stuff.
 
-If you're interested in further information about submitting changes, take a look at our Issue and Pull Request templates. You can find these in the /SFXRescue/.github repository, or by opening a new Pull Request or Issue.
+If you're interested in further information about submitting changes, take a look at our Issue and Pull Request templates. You can find these in the /sightsdev/.github repository, or by opening a new Pull Request or Issue.
 
 ## Coding conventions
 
@@ -31,7 +31,7 @@ If this is too unofficial or laid-back for you, don't worry: expanded style-guid
 
 ## Code of conduct
 
-Here at S.A.R.T., we like to promote the ideals of a safe and healthy open source community. You can read our code of conduct [here](CODE_OF_CONDUCT.md).
+Here at Sights, we like to promote the ideals of a safe and healthy open source community. You can read our code of conduct [here](CODE_OF_CONDUCT.md).
 
 Thanks,
-The Semi-Autonomous Rescue Team
+The Sights Core Development Team
